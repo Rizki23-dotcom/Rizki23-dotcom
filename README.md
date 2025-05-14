@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - 🧑‍💻 Background: Teknik Komputer dan Jaringan
-- 🔭 Currently working on: Laravel + React test project
+- 🔭 Currently working on: Laravel + React on project
 - 🌱 Learning: Docker, Queues, Laravel Octane
 - 🎯 Goal: Build and sell cybersecurity digital products
 
@@ -29,5 +29,5 @@
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rizki-ahmad/)
+[![Gmail](https://img.shields.io/badge/gmail-black?logo=gmail)](rzkahmad23@gmail.com)
