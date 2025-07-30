@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rizki Ahmad!</h1>
-<p align="center">💻 Network Engineer | 🔐 Cybersecurity Enthusiast | 🔧 Backend Developer (Laravel)</p>
+<p align="center">💻 Network Engineer | 🔐 Learn Cybersecurity Enthusiast | 🔧 Backend Developer (Laravel)</p>
 
 ---
 
@@ -7,7 +7,7 @@
 - 🧑‍💻 Background: Teknik Komputer dan Jaringan
 - 🔭 Currently working on: Laravel + React on project
 - 🌱 Learning: Docker, Queues, Laravel Octane
-- 🎯 Goal: Build and sell cybersecurity digital products
+- 🎯 Goal: Learn cybersecurity 
 
 ---
 
